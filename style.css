@@ -12,7 +12,8 @@ body {
 #Container {
   margin-left: 40%;
   margin-top: 40px;
-  background: linear-gradient(#791909, #ff2c00);
+  background-image: url(./image/number1.gif);
+  background-size: cover;
   width: 250px;
   height: 390px;
   border: solid 6px;
